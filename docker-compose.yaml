@@ -1,7 +1,7 @@
 version: '3'
 
 services:
-  myshop-db:
+  myshopDb:
     image: mysql:8
     ports:
       - '3333:3306'
